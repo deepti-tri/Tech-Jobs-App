@@ -28,7 +28,7 @@ It is a sample Spring Boot application which implements ORM functionality by usi
 * Fork this repo and clone it to your local machine
 * Make sure you have Java installed on your local machine.
 * [Set up MySQL on your local machine](https://ladvien.com/data-analytics-mysql-localhost-setup/)
-* [Set up a persistent database for the application](https://education.launchcode.org/gis-devops/configurations/02-environment-variables-intellij/index.html)
+* [Set up a persistent database for the application, similar to this example](https://education.launchcode.org/java-web-development/chapters/orm-part1/background.html#setting-up-a-persistent-database-video)
   * [For best practices, use environment variables to connect](https://education.launchcode.org/gis-devops/configurations/02-environment-variables-intellij/index.html)
 * Start the server via **bootRun**
 * Navigate to http://localhost:8080
