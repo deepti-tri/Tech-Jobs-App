@@ -16,13 +16,16 @@ It is a sample Spring Boot application which implements ORM functionality by usi
 * Spring Actuator
 
 ## Features
-* View Available Jobs
-* View Jobs by Category
-* View Job Details
-* Add Jobs
-* Add Employers
-* Add Skills
-* Search for Jobs by Skill, Employer or Keyword
+* User authentication
+* Signed-in user can view 
+  * Available Jobs 
+  * View Jobs by Category
+  * View Job Details
+* Signed-in user can add 
+  * Jobs
+  * Employers
+  * Skills
+* Signed-in user can search for Jobs by Skill, Employer or Keyword
 
 ## Running locally
 * Fork this repo and clone it to your local machine
@@ -34,10 +37,13 @@ It is a sample Spring Boot application which implements ORM functionality by usi
 * Navigate to http://localhost:8080
 
 ## Screenshots of the app
-![FirstPage](./img/2.png)
+![FirstPage](./img/1.png)
+![](./img/2.png)
 ![](./img/3.png)
 ![](./img/4.png)
 ![](./img/5.png)
 ![](./img/6.png)
-If using IntelliJ IDEA - Ultimate, add the the Spring Actuator Dependancy to see health of the application
-![](./img/01.png)
+![](./img/7.png)
+
+If using IntelliJ IDEA - Ultimate, add the the Spring Actuator Dependency to see the health of the application
+![](./img/8.png)
